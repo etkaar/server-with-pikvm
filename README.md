@@ -16,20 +16,32 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
 
 - Raspberry Pi 4
 
-  - In order to control both the keyboard and the mouse of the server, we will need a Raspberry Pi which offers USB On-The-Go (OTG). This way, the Raspberry will act as an external USB device, such as a normal keyboard:
+  - In order to control both the keyboard and the mouse of the server, we will need a Raspberry Pi which offers USB On-The-Go (OTG). This way, the Raspberry will act as an external USB device and will simulate a keyboard, mouse (and mass storage for images):
   
-    ![image](https://user-images.githubusercontent.com/40885610/221382600-c39dca19-fec1-4946-8ad5-dfd50eaa02fd.png)
+    <img src="https://user-images.githubusercontent.com/40885610/221382600-c39dca19-fec1-4946-8ad5-dfd50eaa02fd.png" width="500">
     
     The default name is "PiKVM CD-ROM Drive 0515".
   
-    Following Raspberry Pis offers OTG:
+    Following Raspberry Pis offer OTG:
     
-     - Raspberry Pi 4
+     - [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/) via Micro-USB
+     - [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-w/) via Micro-USB
+     - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) via Micro-USB
+     - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) via USB-C
     
-    Following do **not** offer it:
+    Following do **not** offer it and therefore are not recommended:
     
-     - Raspberry Pi 2
-     - Raspberry Pi 3
+     - Raspberry Pi Pico
+     - Raspberry Pi Pico W
+     - Raspberry Pi 1 Model A
+     - Raspberry Pi 1 Model A+
+     - Raspberry Pi 1 Model B
+     - Raspberry Pi 1 Model B+
+     - Raspberry Pi 2 Model B
+     - Raspberry Pi 2 Model B V1.2
+     - Raspberry Pi 3 Model A+
+     - Raspberry Pi 3 Model B
+     - Raspberry Pi 3 Model B+
 
 - 3D printer: Reliable and cheap is a FLSUN Q5.
 
