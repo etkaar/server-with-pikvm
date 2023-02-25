@@ -66,6 +66,6 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
 
   This module is connected to the camera slot of the Raspberry using a FFC cable (Flat Flexible Cable) and to the server's HDMI port.
   
-- **Original Power Supply** or any other stabilized power supply with 5 to 5.1 VDC, thick wires (18 AWG) and 2.5 to 3 A. Thicker wires are recommended because of the voltage drop which can occur at long distances and high current draw. Since we don't use the USB-A ports, 2.5 A is reasonable, even for a hungry Raspberry Pi 4.
+- The **original power supply** (the one with the round cable) or any other stabilized power supply with 5 to 5.1 VDC, thick wires (18 AWG) and 2.5 to 3 A. Thicker wires are recommended because of the voltage drop which can occur at long distances and high current draw. Since we don't use the USB-A ports, 2.5 A is reasonable, even for a hungry Raspberry Pi 4.
 - **microSD Card** with 64 GB.
       
