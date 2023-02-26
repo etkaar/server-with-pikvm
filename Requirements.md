@@ -63,6 +63,8 @@
   
     <img src="https://user-images.githubusercontent.com/40885610/221425578-d31c160f-f979-4edc-963e-295ae1455ff0.JPG" width="400">
   
+---
+  
 ### 3.2 Tools
 
 - **Soldering Iron** or a **Soldering Station**
@@ -79,6 +81,8 @@
 
   🏬 Suppliers: [Amazon.de](https://www.amazon.de/gp/product/B001NUMVHQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
+---
+
 ### 3.3 Parts for the Raspberry Pi 4
 
 - **HDMI to CSI-2 Module**
@@ -91,6 +95,8 @@
 - The **original power supply** (the one with the round cable) or any other stabilized power supply with a round cable providing 5 to 5.1 VDC, thick wires (18 AWG) and 2.5 to 3 A. Thicker wires are recommended because of the voltage drop which can occur at long distances and high current draw. The round cable is required for the assembly of the neutriCON connector. Since we don't use the USB-A ports, 2.5 A is reasonable, even for a hungry Raspberry Pi 4.
 
 - **microSD Card** with 64 GB.
+
+---
 
 ### 3.3.1 Part for the Frontpanel Header Control
 
@@ -116,5 +122,24 @@
    
    <img src="https://user-images.githubusercontent.com/40885610/221437278-55a083f2-4c19-40f3-97fa-51b00bf41101.jpg" height="150">
 
+---
 
+### 3.4 Cables, Connectors, Terminals, i.e.
       
+- **Stranded Tinned Copper Wires**
+
+   AWG 23 (0,25 mm²)
+   
+     Colors
+     
+       - Blue: Power
+       - Red: Reset
+       - Yellow: Power LED
+       - White: HDD LED (IDE LED)
+       - Black: Ground
+
+- **Solid Tinned Copper Wires**
+
+   AWG 19–21 (0,5 mm²)
+   
+      Colors: *Same as in 1.*
