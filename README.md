@@ -66,6 +66,21 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
 
   This module is connected to the camera slot of the Raspberry using a FFC cable (Flat Flexible Cable) and to the server's HDMI port.
   
-- The **original power supply** (the one with the round cable) or any other stabilized power supply with 5 to 5.1 VDC, thick wires (18 AWG) and 2.5 to 3 A. Thicker wires are recommended because of the voltage drop which can occur at long distances and high current draw. Since we don't use the USB-A ports, 2.5 A is reasonable, even for a hungry Raspberry Pi 4.
+  - Search for: "Geekworm Raspberry Pi HDMI IN Module C779, HDMI to CSI CSI-2"<br>
+     🏬 Suppliers: [Amazon.de](https://www.amazon.de/gp/product/B0899L6ZXZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)<br>
+  
+- The **original power supply** (the one with the round cable) or any other stabilized power supply with a round cable providing 5 to 5.1 VDC, thick wires (18 AWG) and 2.5 to 3 A. Thicker wires are recommended because of the voltage drop which can occur at long distances and high current draw. The round cable is required for the assembly of the neutriCON connector. Since we don't use the USB-A ports, 2.5 A is reasonable, even for a hungry Raspberry Pi 4.
+
+- **Prototyping HAT / Raspberry Pi Shield**
+
+  This is a breadboard (PCB) put onto the Raspberry. It makes it easy for you to solder the frontpanel control schematic (required to start or restart the server) and connect it to the according GPIO pins.
+  
+  - Search for: "GeeekPi 4x Prototype Breakout DIY Breadboard PCB Shield Board Kit"<br>
+     🏬 Suppliers: [Amazon.de](https://www.amazon.de/gp/product/B08C4XLT44/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)<br>
+     
+     There *might* be better PCBs than the current version by GeekPi (February 2023). While it fits and soldering is easy, the recess for the FFC cable is not at the right position for a Raspberry Pi 4. However, this should not be a big problem because the FFC cable is usually long enough.
+
 - **microSD Card** with 64 GB.
+
+### 2.3 Parts for the Raspberry Pi 4
       
