@@ -30,7 +30,7 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
 
   - In order to control both the keyboard and the mouse of the server, we will need a Raspberry Pi which offers USB On-The-Go (OTG). This way, the Raspberry will act as an external USB device and will simulate a keyboard, mouse (and mass storage for images):
   
-    <img src="https://user-images.githubusercontent.com/40885610/221382600-c39dca19-fec1-4946-8ad5-dfd50eaa02fd.png" width="400">
+    <img src="https://user-images.githubusercontent.com/40885610/221382600-c39dca19-fec1-4946-8ad5-dfd50eaa02fd.png" width="500">
     
     The default name is "PiKVM CD-ROM Drive 0515".
   
@@ -122,6 +122,8 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
    Of course, you could also use SMD or MELF resistors if you can handle them.
    
    **Miniature *vs* Standard Size**
-   ![StandardSizeVSMiniature](https://user-images.githubusercontent.com/40885610/221437278-55a083f2-4c19-40f3-97fa-51b00bf41101.jpg)
+   
+   <img src="https://user-images.githubusercontent.com/40885610/221437278-55a083f2-4c19-40f3-97fa-51b00bf41101.jpg" height="150">
+
 
       
