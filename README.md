@@ -12,9 +12,11 @@ As the goal of this project is to make it as professional and replicable as poss
 
 This article does neither contain paid advertisement, nor referral links (e.g. to Amazon or other sites).
 
-## 2.0 Requirements
+## 2.0 Pictures
 
-### 2.1 The Basic Hardware
+## 3.0 Requirements
+
+### 3.1 The Basic Hardware
 
 - **Raspberry Pi 4**
 
@@ -60,7 +62,23 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
 
   - **Polyimide Tape**: While you don't need a 3D printer with a closed chamber, it can be hard to print PCTG to the surface as it tends to not stick or only stick at very high build temperatures. Therefore, you will need Polyimide tape (also known as "Kapton"). This allowed me to lower the build plate temperature to only 70 °C while using 250 °C for the nozzle. The tape can be used for multiple prints: It is neither required to remove it after printing, nor is it required to clean it with isopropyl alcohol afterwards.
   
-### 2.2 Parts for the Raspberry Pi 4
+### 3.2 Tools
+
+- **Soldering Iron** or a **Soldering Station**
+
+  An ERSA i-CON nano does a great job. It is small and ESD protected. I primarily use it with the tips [0102PDLF10](https://www.ersa-shop.com/ersa-ersadur-l%C3%B6tspitze-f%C3%BCr-itool-gerade-bleistiftspitz-p-1316.html) (pointed, 1.0 mm), [0102ADLF13](https://www.ersa-shop.com/ersa-ersadur-l%C3%B6tspitze-f%C3%BCr-itool-gerade-angeschr%C3%A4gt-p-1723.html) (beveled, 1.3 mm) and [0102CDLF16](https://www.ersa-shop.com/ersa-ersadur-l%C3%B6tspitze-f%C3%BCr-itool-gerade-mei%C3%9Felf%C3%B6rmig-p-819.html) (chisel-shaped, 1.6 mm).
+  
+- **Soldering Tin**
+
+  I can recommend *armack Typ32-3* (S-Sn95Ag4Cu1) with 0.5 and 0.8 mm. Contains silver, but not lead. I set the soldering station to 315 °C.
+  
+  🏬 Suppliers: [display3000.com](https://display3000.com/shop/werkstatt/loetzinn-lote/bleifreies-loetzinn-2-4.html)
+
+- **Automatic Wire Stripper**: For instance, the one from WEICON tools.
+
+  🏬 Suppliers: [Amazon.de](https://www.amazon.de/gp/product/B001NUMVHQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+### 3.3 Parts for the Raspberry Pi 4
 
 - **HDMI to CSI-2 Module**
 
@@ -71,16 +89,22 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
   
 - The **original power supply** (the one with the round cable) or any other stabilized power supply with a round cable providing 5 to 5.1 VDC, thick wires (18 AWG) and 2.5 to 3 A. Thicker wires are recommended because of the voltage drop which can occur at long distances and high current draw. The round cable is required for the assembly of the neutriCON connector. Since we don't use the USB-A ports, 2.5 A is reasonable, even for a hungry Raspberry Pi 4.
 
-- **Prototyping HAT / Raspberry Pi Shield**
-
-  This is a breadboard put onto the Raspberry. It makes it easy for you to solder the frontpanel control schematic (required to start or restart the server) and connect it to the according GPIO pins.
-  
-  - Search for: "GeeekPi 4x Prototype Breakout DIY Breadboard PCB Shield Board Kit"<br>
-     🏬 Suppliers: [Amazon.de](https://www.amazon.de/gp/product/B08C4XLT44/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)<br>
-     
-     There *might* be better PCBs than the current version by GeekPi (February 2023). While it fits, soldering is easy and all required GPIOs are available, the recess for the FFC cable of the HDMI to CSI-2 module is not at the right position for a Raspberry Pi 4. However, this should not be a big problem because the FFC cable is usually long enough.
-
 - **microSD Card** with 64 GB.
 
-### 2.3 Parts for the Raspberry Pi 4
+### 3.3.1 Part for the Frontpanel Header Control
+
+1. **Prototyping HAT / Raspberry Pi Shield**
+
+   This is a breadboard put onto the Raspberry. It makes it easy for you to solder the frontpanel header control schematic (required to start or restart the server) and connect it to the according GPIO pins.
+  
+    - Search for: "GeeekPi 4x Prototype Breakout DIY Breadboard PCB Shield Board Kit"<br>
+       🏬 Suppliers: [Amazon.de](https://www.amazon.de/gp/product/B08C4XLT44/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)<br>
+     
+       There *might* be better PCBs than the current version by GeekPi (February 2023). While it fits, soldering is easy and all required GPIOs are available, the recess for the FFC cable of the HDMI to CSI-2 module is not at the right position for a Raspberry Pi 4. However, this should not be a big problem because the FFC cable is usually long enough.
+
+2. 4 x Omron G3VM-61A1 MOSFET Relay ([Datasheet](https://omronfs.omron.com/en_US/ecb/products/pdf/en-g3vm_61a1_d1.pdf))
+   🏬 Suppliers: [Reichelt.de](https://www.reichelt.de/mosfet-relais-spst-no-60-v-0-5-a-1-r-dip-4-g3vm-61a1-p314678.html)
+3. 4 x 330 or 390 Ω resistor
+4. 2 x 4.7K Ω resistor
+5. 
       
