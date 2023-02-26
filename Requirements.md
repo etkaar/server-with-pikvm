@@ -128,18 +128,34 @@
       
 - **Stranded Tinned Copper Wires**
 
-   AWG 23 (0,25 mm²)
+  AWG 23 (0,25 mm²)
    
-     Colors
-     
-       - Blue: Power
-       - Red: Reset
-       - Yellow: Power LED
-       - White: HDD LED (IDE LED)
-       - Black: Ground
+  | Color | Use Case |
+  | :-- |:--|
+  | Blue | Power |
+  | Red | Reset |
+  | Yellow | Power LED |
+  | White | HDD LED |
+  | Black | Ground |
 
 - **Solid Tinned Copper Wires**
 
-   AWG 19–21 (0,5 mm²)
+  AWG 19–21 (0,5 mm²)
    
-      Colors: *Same as in 1.*
+  | Color | Use Case | GPIO |
+  | :-- |:--|:--:|
+  | Blue | Power | 23 |
+  | Red | Reset | 27 |
+  | Yellow | Power LED | 24 |
+  | White | HDD LED | 22 |
+  
+- **Stranded Tinned Copper Wires**
+
+  AWG 18–20 (0,5–0,75 mm²)
+  
+  | Color | Use Case |
+  | :-- |:--|
+  | Red | +5 VDC (Power Supply) |
+  | Black | Ground |
+  
+- **neutriCON *or* XLR-4 connectors**
