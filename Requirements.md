@@ -159,3 +159,16 @@
   | Black | Ground |
   
 - **neutriCON *or* XLR-4 connectors**
+
+  | Name | Product Code | Use Case |
+  | :-- |:--|:--|
+  | neutriCON Male Chassis Connector | [ORP8M-NI](https://www.neutrik.com/en/product/orp8m-ni) (Nickel) *or* [ORP8M](https://www.neutrik.com/en/product/orp8m) (Black) |  |
+  | neutriCON Female Cable Connector | [OSC8F-NI](https://www.neutrik.com/en/product/osc8f-ni) (Nickel) *or* [OSC8F](https://www.neutrik.com/en/product/osc8f) (Black)  |  |
+  
+  OR
+  
+    | Name | Product Code | Use Case |
+  | :-- |:--|:--|
+  | neutriCON Male Chassis Connector | ORP8M-NI (Nickel) *or* ORP8M (Black) |  |
+  | neutriCON Female Cable Connector | OSC8F-NI (Nickel) *or* OSC8F (Black)  |  |
+
