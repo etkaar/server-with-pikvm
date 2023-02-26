@@ -73,7 +73,7 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
 
 - **Prototyping HAT / Raspberry Pi Shield**
 
-  This is a breadboard (PCB) put onto the Raspberry. It makes it easy for you to solder the frontpanel control schematic (required to start or restart the server) and connect it to the according GPIO pins.
+  This is a breadboard put onto the Raspberry. It makes it easy for you to solder the frontpanel control schematic (required to start or restart the server) and connect it to the according GPIO pins.
   
   - Search for: "GeeekPi 4x Prototype Breakout DIY Breadboard PCB Shield Board Kit"<br>
      🏬 Suppliers: [Amazon.de](https://www.amazon.de/gp/product/B08C4XLT44/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)<br>
