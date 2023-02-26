@@ -120,4 +120,8 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
    🏬 Suppliers: [Reichelt.de](https://www.reichelt.de/de/en/metal-film-resistor-4-7-kohm-0204-0-4-w-1--yag-4fte52-4k7-p236963.html)
    
    Of course, you could also use SMD or MELF resistors if you can handle them.
+   
+   **Miniature *vs* Standard Size**
+   ![StandardSizeVSMiniature](https://user-images.githubusercontent.com/40885610/221437278-55a083f2-4c19-40f3-97fa-51b00bf41101.jpg)
+
       
