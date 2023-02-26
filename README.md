@@ -70,6 +70,8 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
 
   - **Polyimide Tape**: While you don't need a 3D printer with a closed chamber, it can be hard to print PCTG to the surface as it tends to not stick or only stick at very high build temperatures. Therefore, you will need Polyimide tape (also known as "Kapton"). This allowed me to lower the build plate temperature to only 70 °C while using 250 °C for the nozzle. The tape can be used for multiple prints: It is neither required to remove it after printing, nor is it required to clean it with isopropyl alcohol afterwards.
   
+    <img src="https://user-images.githubusercontent.com/40885610/221425578-d31c160f-f979-4edc-963e-295ae1455ff0.JPG" width="400">
+  
 ### 3.2 Tools
 
 - **Soldering Iron** or a **Soldering Station**
