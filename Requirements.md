@@ -2,6 +2,10 @@
 
 - [1.0 Introduction](https://github.com/etkaar/pikvm)
 - [2.0 Pictures](https://github.com/etkaar/pikvm)
+- 3.0 Requirements
+  - 3.1 The Basic Hardware
+  - 3.2 Tools
+  - 3.3 Parts for the Raspberry Pi 4
 
 ## 3.0 Requirements
 
