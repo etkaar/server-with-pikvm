@@ -112,9 +112,12 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
      
        There *might* be better PCBs than the current version by GeekPi (February 2023). While it fits, soldering is easy and all required GPIOs are available, the recess for the FFC cable of the HDMI to CSI-2 module is not at the right position for a Raspberry Pi 4. However, this should not be a big problem because the FFC cable is usually long enough.
 
-2. 4 x Omron G3VM-61A1 MOSFET Relay ([Datasheet](https://omronfs.omron.com/en_US/ecb/products/pdf/en-g3vm_61a1_d1.pdf))
+2. 4 x Omron G3VM-61A1 MOSFET Relay ([Datasheet](https://omronfs.omron.com/en_US/ecb/products/pdf/en-g3vm_61a1_d1.pdf))<br>
    🏬 Suppliers: [Reichelt.de](https://www.reichelt.de/mosfet-relais-spst-no-60-v-0-5-a-1-r-dip-4-g3vm-61a1-p314678.html)
-3. 4 x 330 or 390 Ω resistor
-4. 2 x 4.7K Ω resistor
-5. 
+3. 4 x Axial miniature resistor with 330 or 390 Ω, axial, size 0204 (about 3.5 mm = 0,13 inch).<br>
+   🏬 Suppliers: [Reichelt.de](https://www.reichelt.de/de/de/duennschichtwiderstand-axial-0-4-w-330-ohm-1--vi-mba02040c3300-p233643.html)
+5. 2 x Axial miniature 4.7K Ω, axial, size 0204 (about 3.5 mm = 0,13 inch)<br>
+   🏬 Suppliers: [Reichelt.de](https://www.reichelt.de/de/en/metal-film-resistor-4-7-kohm-0204-0-4-w-1--yag-4fte52-4k7-p236963.html)
+   
+   Of course, you could also use SMD or MELF resistors if you can handle them.
       
