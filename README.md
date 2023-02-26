@@ -78,7 +78,7 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
   - Search for: "GeeekPi 4x Prototype Breakout DIY Breadboard PCB Shield Board Kit"<br>
      🏬 Suppliers: [Amazon.de](https://www.amazon.de/gp/product/B08C4XLT44/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)<br>
      
-     There *might* be better PCBs than the current version by GeekPi (February 2023). While it fits and soldering is easy, the recess for the FFC cable is not at the right position for a Raspberry Pi 4. However, this should not be a big problem because the FFC cable is usually long enough.
+     There *might* be better PCBs than the current version by GeekPi (February 2023). While it fits, soldering is easy and all required GPIOs are available, the recess for the FFC cable of the HDMI to CSI-2 module is not at the right position for a Raspberry Pi 4. However, this should not be a big problem because the FFC cable is usually long enough.
 
 - **microSD Card** with 64 GB.
 
