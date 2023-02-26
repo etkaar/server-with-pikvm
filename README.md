@@ -20,6 +20,12 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
 
 ### 3.1 The Basic Hardware
 
+- **Server Case** with 2U or more. This project uses the UNYKAch 2128.
+
+  🏬 Suppliers: [Amazon.de](https://www.amazon.de/UNYKAch-2128-19-2U-Geh%C3%A4use-Computer-Geh%C3%A4use-Geh%C3%A4use-Micro-ATX/dp/B079XY9SMQ)
+
+- **Mainboard**: To leave enough space, you might choose one with form factor microATX (mATX).
+
 - **Raspberry Pi 4**
 
   - In order to control both the keyboard and the mouse of the server, we will need a Raspberry Pi which offers USB On-The-Go (OTG). This way, the Raspberry will act as an external USB device and will simulate a keyboard, mouse (and mass storage for images):
