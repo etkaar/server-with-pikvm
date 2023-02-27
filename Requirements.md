@@ -160,15 +160,17 @@
   
 - **neutriCON *or* XLR-4 connectors**
 
-  | Name | Product Code | Use Case |
+  | Name | Product Code |
   | :-- |:--|:--|
-  | neutriCON Male Chassis Connector | [ORP8M-NI](https://www.neutrik.com/en/product/orp8m-ni) (Nickel) *or* [ORP8M](https://www.neutrik.com/en/product/orp8m) (Black) |  |
-  | neutriCON Female Cable Connector | [OSC8F-NI](https://www.neutrik.com/en/product/osc8f-ni) (Nickel) *or* [OSC8F](https://www.neutrik.com/en/product/osc8f) (Black)  |  |
+  | neutriCON 8-pole Male Chassis Connector | [ORP8M-NI](https://www.neutrik.com/en/product/orp8m-ni) (Nickel) *or* [ORP8M](https://www.neutrik.com/en/product/orp8m) (Black) |
+  | neutriCON 8-pole Female Cable Connector | [OSC8F-NI](https://www.neutrik.com/en/product/osc8f-ni) (Nickel) *or* [OSC8F](https://www.neutrik.com/en/product/osc8f) (Black)  |
   
   OR
   
-    | Name | Product Code | Use Case |
+    | Name | Product Code |
   | :-- |:--|:--|
-  | neutriCON Male Chassis Connector | ORP8M-NI (Nickel) *or* ORP8M (Black) |  |
-  | neutriCON Female Cable Connector | OSC8F-NI (Nickel) *or* OSC8F (Black)  |  |
+  | Neutrik 4-pole Male Chassis Connector | [NC4MD-LX](https://www.neutrik.com/en/product/nc4md-lx?c=audio) (Nickel) *or* [NC4MD-LX-B](https://www.neutrik.com/en/product/nc4md-lx-b?c=audio) (Black) |
+  | Neutrik 4-pole Female Cable Connector | OSC8F-NI (Nickel) *or* OSC8F (Black)  |
+
+  The male chassis connector is connected to the server case, while the female cable connector is connected to the cable of the power supply for the Raspberry Pi.
 
