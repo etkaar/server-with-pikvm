@@ -184,5 +184,5 @@
 
     | Name | Product Code | Category |
   | :-- | :-- | :--: |
-  | etherCON RJ45 Chassis Connector | [NE8FDP](https://www.neutrik.com/en/product/ne8fdp) (Nickel) *or* [NE8FDP-B](https://www.neutrik.com/en/product/ne8fdp-b) (Black) | CAT 5e |
+  | etherCON RJ45 Chassis Connector | [NE8FDP](https://www.neutrik.com/en/product/ne8fdp) (Nickel) *or* [NE8FDP-B](https://www.neutrik.com/en/product/ne8fdp-b) (Black) | Cat 5e |
 
