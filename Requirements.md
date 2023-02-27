@@ -128,7 +128,7 @@
       
 - **Stranded Tinned Copper Wires**
 
-  AWG 23 (0,25 mm²)
+  23 AGW (0.25 mm²)
    
   | Color | Use Case |
   | :-- |:--|
@@ -140,7 +140,7 @@
 
 - **Solid Tinned Copper Wires**
 
-  19–21 AWG (0,5 mm²)
+  19–21 AWG (0.5 mm²)
    
   | Color | Use Case | GPIO |
   | :-- | :-- | :--: |
@@ -151,7 +151,7 @@
   
 - **Stranded Tinned Copper Wires**
 
-  18–20 AWG (0,5–0,75 mm²)
+  18–20 AWG (0.5–0.75 mm²)
   
   | Color | Use Case |
   | :-- | :-- |
