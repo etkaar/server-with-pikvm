@@ -118,9 +118,9 @@
    
    <img src="https://user-images.githubusercontent.com/40885610/221562800-ad3a05e4-d9ce-446c-a558-63cf4fb78b76.jpg" width="500">
    
-3. 4 x Axial miniature resistor with 330 or 390 Ω, axial, size 0204 (about 3.5 mm = 0,13 inch).<br>
+3. 4 x Axial miniature resistor with 330 or 390 Ω, axial, size 0204 (about 3.5 mm = 0.13 inch).<br>
    🏬 Suppliers: [Reichelt.de](https://www.reichelt.de/de/de/duennschichtwiderstand-axial-0-4-w-330-ohm-1--vi-mba02040c3300-p233643.html)
-5. 2 x Axial miniature 4.7K Ω, axial, size 0204 (about 3.5 mm = 0,13 inch)<br>
+5. 2 x Axial miniature 4.7K Ω, axial, size 0204 (about 3.5 mm = 0.13 inch)<br>
    🏬 Suppliers: [Reichelt.de](https://www.reichelt.de/de/en/metal-film-resistor-4-7-kohm-0204-0-4-w-1--yag-4fte52-4k7-p236963.html)
    
    Of course, you could also use SMD or MELF resistors if you can handle them.
