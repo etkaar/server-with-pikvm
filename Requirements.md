@@ -11,7 +11,7 @@
 
 ### 3.1 The Basic Hardware
 
-- **Server Case** with 2U or more. This project uses the UNYKAch 2128.
+- **Server Case** with 2U or more. This project uses the [UNYKAch 2128](https://unykach.com/en/professional/rack19/rack-case-2u19-uk-2129-52095/).
 
   🏬 Suppliers: [Amazon.de](https://www.amazon.de/UNYKAch-2128-19-2U-Geh%C3%A4use-Computer-Geh%C3%A4use-Geh%C3%A4use-Micro-ATX/dp/B079XY9SMQ)
 
@@ -92,7 +92,7 @@
   - Search for: "Geekworm Raspberry Pi HDMI IN Module C779, HDMI to CSI CSI-2"<br>
      🏬 Suppliers: [Amazon.de](https://www.amazon.de/gp/product/B0899L6ZXZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)<br>
   
-- The **original power supply** (the one with the round cable) or any other stabilized power supply with a round cable providing 5 to 5.1 VDC, thick wires (18 AWG) and 2.5 to 3 A. Thicker wires are recommended because of the voltage drop which can occur at long distances and high current draw. The round cable is required for the assembly of the neutriCON connector. Since we don't use the USB-A ports, 2.5 A is reasonable, even for a hungry Raspberry Pi 4.
+- The **Original Power Supply** (the one with the round cable) or any other stabilized power supply with a round cable providing 5 to 5.1 VDC, thick wires (18 AWG) and 2.5 to 3 A. Thicker wires are recommended because of the voltage drop which can occur at long distances and high current draw. The round cable is required for the assembly of the neutriCON connector. Since we don't use the USB-A ports, 2.5 A is reasonable, even for a hungry Raspberry Pi 4.
 
 - **microSD Card** with 64 GB.
 
@@ -179,4 +179,10 @@
   The male chassis connector is connected to the server case, while the female cable connector is connected to the cable of the power supply for the Raspberry Pi.
   
   <sup>1</sup> Rated current per contact.
+  
+- **RJ45 Pass-through Chassis Connector**
+
+    | Name | Product Code | Category |
+  | :-- | :-- | :--: | :--: |
+  | etherCON RJ45 Chassis Connector | [NE8FDP](https://www.neutrik.com/en/product/ne8fdp) (Nickel) *or* [NE8FDP-B](https://www.neutrik.com/en/product/ne8fdp-b) (Black) | CAT 5e |
 
