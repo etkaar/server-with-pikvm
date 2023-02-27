@@ -126,6 +126,9 @@
 
 ### 3.4 Cables, Connectors, Terminals, i.e.
       
+- **Ethernet Patch Cable**, 0.5–1.0 meter
+- **HDMI Cable**, 1.0 meter
+      
 - **Stranded Tinned Copper Wires**
 
   23 AGW (0.25 mm²)
@@ -186,6 +189,5 @@
   | :-- | :-- | :--: |
   | etherCON RJ45 Chassis Connector | [NE8FDP](https://www.neutrik.com/en/product/ne8fdp) (Nickel) *or* [NE8FDP-B](https://www.neutrik.com/en/product/ne8fdp-b) (Black) | Cat 5e |
   
-- **Ethernet Patch Cable**, 0.5–1.0 meter
-- **HDMI Cable**, 1.0 meter
+
 
