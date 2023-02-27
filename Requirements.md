@@ -3,9 +3,10 @@
 - [1.0 Introduction](https://github.com/etkaar/pikvm)
 - [2.0 Pictures](https://github.com/etkaar/pikvm)
 - 3.0 Requirements
-  - [3.1 The Basic Hardware](https://github.com/etkaar/pikvm/blob/main/Requirements.md#31-the-basic-hardware)
-  - [3.2 Tools](https://github.com/etkaar/pikvm/blob/main/Requirements.md#32-tools)
+  - [3.1 The Basic Hardware](#31-the-basic-hardware)
+  - [3.2 Tools](#32-tools)
   - [3.3 Parts for the Raspberry Pi 4](#33-parts-for-the-raspberry-pi-4)
+    - [3.3.1 Part for the Frontpanel Header Control]()
 
 ## 3.0 Requirements
 
