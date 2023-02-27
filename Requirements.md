@@ -140,10 +140,10 @@
 
 - **Solid Tinned Copper Wires**
 
-  AWG 19–21 (0,5 mm²)
+  19–21 AWG (0,5 mm²)
    
   | Color | Use Case | GPIO |
-  | :-- |:--|:--:|
+  | :-- | :-- | :--: |
   | Blue | Power | 23 |
   | Red | Reset | 27 |
   | Yellow | Power LED | 24 |
@@ -151,26 +151,32 @@
   
 - **Stranded Tinned Copper Wires**
 
-  AWG 18–20 (0,5–0,75 mm²)
+  18–20 AWG (0,5–0,75 mm²)
   
   | Color | Use Case |
-  | :-- |:--|
+  | :-- | :-- |
   | Red | +5 VDC (Power Supply) |
   | Black | Ground |
   
-- **neutriCON *or* XLR-4 connectors**
+- **Power Connectors for Raspberry Pi Power Supply <-> Server Case**
 
-  | Name | Product Code |
-  | :-- |:--|:--|
-  | neutriCON 8-pole Male Chassis Connector | [ORP8M-NI](https://www.neutrik.com/en/product/orp8m-ni) (Nickel) *or* [ORP8M](https://www.neutrik.com/en/product/orp8m) (Black) |
-  | neutriCON 8-pole Female Cable Connector | [OSC8F-NI](https://www.neutrik.com/en/product/osc8f-ni) (Nickel) *or* [OSC8F](https://www.neutrik.com/en/product/osc8f) (Black)  |
+  **neutriCON**
+
+  | Name | Product Code | Max. Current<sup>1</sup> | Max. Wire Size |
+  | :-- | :-- | :--: |
+  | neutriCON 8-pole Male Chassis Connector | [ORP8M-NI](https://www.neutrik.com/en/product/orp8m-ni) (Nickel) *or* [ORP8M](https://www.neutrik.com/en/product/orp8m) (Black) | 7.5 A | 18 AWG (1.0 mm²) |
+  | neutriCON 8-pole Female Cable Connector | [OSC8F-NI](https://www.neutrik.com/en/product/osc8f-ni) (Nickel) *or* [OSC8F](https://www.neutrik.com/en/product/osc8f) (Black) | 7.5 A | 18 AWG (1.0 mm²) |
   
-  OR
+  *OR*
   
-    | Name | Product Code |
-  | :-- |:--|:--|
-  | Neutrik 4-pole Male Chassis Connector | [NC4MD-LX](https://www.neutrik.com/en/product/nc4md-lx?c=audio) (Nickel) *or* [NC4MD-LX-B](https://www.neutrik.com/en/product/nc4md-lx-b?c=audio) (Black) |
-  | Neutrik 4-pole Female Cable Connector | OSC8F-NI (Nickel) *or* OSC8F (Black)  |
+  **XLR-4**
+  
+    | Name | Product Code | Max. Current<sup>1</sup> | Max. Wire Size |
+  | :-- | :-- | :--: |
+  | Neutrik 4-pole Male Chassis Connector | [NC4MD-LX](https://www.neutrik.com/en/product/nc4md-lx) (Nickel) *or* [NC4MD-LX-B](https://www.neutrik.com/en/product/nc4md-lx-b?c=audio) (Black) | 10 A | 16 AWG (1.5 mm²) |
+  | Neutrik 4-pole Female Cable Connector | [NC4FXX](https://www.neutrik.com/en/product/nc4fxx) (Nickel) *or* [NC4FXX-B](https://www.neutrik.com/en/product/nc4fxx-b) (Black) | 10 A | 16 AWG (1.5 mm²) |
 
   The male chassis connector is connected to the server case, while the female cable connector is connected to the cable of the power supply for the Raspberry Pi.
+  
+  <sup>1</sup> Rated current per contact.
 
