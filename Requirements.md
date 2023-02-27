@@ -11,7 +11,7 @@
     - [3.3.1 Part for the Frontpanel Header Control](#331-part-for-the-frontpanel-header-control)
   - [3.4 Cables, Connectors, Terminals, i.e.](#34-cables-connectors-terminals-ie)
 
-## 3.0 Requirements
+## 3.0 Requirements ▲ [Index](#index)
 
 ### 3.1 The Basic Hardware
 
