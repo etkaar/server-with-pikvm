@@ -94,7 +94,9 @@
   
 - The **Original Power Supply** (the one with the round cable) or any other stabilized power supply with a round cable providing 5 to 5.1 VDC, thick wires (18 AWG) and 2.5 to 3 A. Thicker wires are recommended because of the voltage drop which can occur at long distances and high current draw. The round cable is required for the assembly of the neutriCON connector. Since we don't use the USB-A ports, 2.5 A is reasonable, even for a hungry Raspberry Pi 4.
 
-- **microSD Card** with 64 GB.
+- **microSD Card** with 64–128 GB.
+
+  <img src="https://user-images.githubusercontent.com/40885610/221562459-4a515c7b-dd42-42a3-9233-c09818893b70.jpg" width="500">
 
 ---
 
@@ -108,9 +110,14 @@
        🏬 Suppliers: [Amazon.de](https://www.amazon.de/gp/product/B08C4XLT44/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)<br>
      
        There *might* be better breadboards than the current version by GeekPi (February 2023). While it fits, soldering is easy and all required GPIOs are available, the recess for the FFC cable of the HDMI to CSI-2 module is not at the right position for a Raspberry Pi 4. However, this should not be a big problem because the FFC cable is usually long enough.
+       
+    <img src="https://user-images.githubusercontent.com/40885610/221559192-b8c10a05-55af-447d-8d77-3d311936cb9c.jpg" width="500">
 
 2. 4 x Omron G3VM-61A1 MOSFET Relay ([Datasheet](https://omronfs.omron.com/en_US/ecb/products/pdf/en-g3vm_61a1_d1.pdf))<br>
    🏬 Suppliers: [Reichelt.de](https://www.reichelt.de/mosfet-relais-spst-no-60-v-0-5-a-1-r-dip-4-g3vm-61a1-p314678.html)
+   
+   <img src="https://user-images.githubusercontent.com/40885610/221562800-ad3a05e4-d9ce-446c-a558-63cf4fb78b76.jpg" width="500">
+   
 3. 4 x Axial miniature resistor with 330 or 390 Ω, axial, size 0204 (about 3.5 mm = 0,13 inch).<br>
    🏬 Suppliers: [Reichelt.de](https://www.reichelt.de/de/de/duennschichtwiderstand-axial-0-4-w-330-ohm-1--vi-mba02040c3300-p233643.html)
 5. 2 x Axial miniature 4.7K Ω, axial, size 0204 (about 3.5 mm = 0,13 inch)<br>
@@ -119,8 +126,8 @@
    Of course, you could also use SMD or MELF resistors if you can handle them.
    
    **Miniature *vs* Standard Size**
-   
-   <img src="https://user-images.githubusercontent.com/40885610/221437278-55a083f2-4c19-40f3-97fa-51b00bf41101.jpg" height="150">
+
+   <img src="https://user-images.githubusercontent.com/40885610/221559339-6090bde7-7353-4aa0-b6d6-2d05dcee0837.jpg" height="150">
 
 ---
 
