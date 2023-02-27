@@ -107,7 +107,7 @@
     - Search for: "GeeekPi 4x Prototype Breakout DIY Breadboard PCB Shield Board Kit"<br>
        🏬 Suppliers: [Amazon.de](https://www.amazon.de/gp/product/B08C4XLT44/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)<br>
      
-       There *might* be better PCBs than the current version by GeekPi (February 2023). While it fits, soldering is easy and all required GPIOs are available, the recess for the FFC cable of the HDMI to CSI-2 module is not at the right position for a Raspberry Pi 4. However, this should not be a big problem because the FFC cable is usually long enough.
+       There *might* be better breadboards than the current version by GeekPi (February 2023). While it fits, soldering is easy and all required GPIOs are available, the recess for the FFC cable of the HDMI to CSI-2 module is not at the right position for a Raspberry Pi 4. However, this should not be a big problem because the FFC cable is usually long enough.
 
 2. 4 x Omron G3VM-61A1 MOSFET Relay ([Datasheet](https://omronfs.omron.com/en_US/ecb/products/pdf/en-g3vm_61a1_d1.pdf))<br>
    🏬 Suppliers: [Reichelt.de](https://www.reichelt.de/mosfet-relais-spst-no-60-v-0-5-a-1-r-dip-4-g3vm-61a1-p314678.html)
