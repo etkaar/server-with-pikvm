@@ -6,7 +6,8 @@
   - [3.1 The Basic Hardware](#31-the-basic-hardware)
   - [3.2 Tools](#32-tools)
   - [3.3 Parts for the Raspberry Pi 4](#33-parts-for-the-raspberry-pi-4)
-    - [3.3.1 Part for the Frontpanel Header Control]()
+    - [3.3.1 Part for the Frontpanel Header Control](#331-part-for-the-frontpanel-header-control)
+  - [3.4 Cables, Connectors, Terminals, i.e.](#32-tools)
 
 ## 3.0 Requirements
 
