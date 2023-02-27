@@ -1,5 +1,7 @@
 # The Server-With-a-PiKVM Project 
 
+## Index
+
 - [1.0 Introduction](https://github.com/etkaar/pikvm)
 - [2.0 Pictures](https://github.com/etkaar/pikvm)
 - 3.0 Requirements
