@@ -163,7 +163,7 @@
   **neutriCON**
 
   | Name | Product Code | Max. Current<sup>1</sup> | Max. Wire Size |
-  | :-- | :-- | :--: |
+  | :-- | :-- | :--: | :--: |
   | neutriCON 8-pole Male Chassis Connector | [ORP8M-NI](https://www.neutrik.com/en/product/orp8m-ni) (Nickel) *or* [ORP8M](https://www.neutrik.com/en/product/orp8m) (Black) | 7.5 A | 18 AWG (1.0 mm²) |
   | neutriCON 8-pole Female Cable Connector | [OSC8F-NI](https://www.neutrik.com/en/product/osc8f-ni) (Nickel) *or* [OSC8F](https://www.neutrik.com/en/product/osc8f) (Black) | 7.5 A | 18 AWG (1.0 mm²) |
   
@@ -172,7 +172,7 @@
   **XLR-4**
   
     | Name | Product Code | Max. Current<sup>1</sup> | Max. Wire Size |
-  | :-- | :-- | :--: |
+  | :-- | :-- | :--: | :--: |
   | Neutrik 4-pole Male Chassis Connector | [NC4MD-LX](https://www.neutrik.com/en/product/nc4md-lx) (Nickel) *or* [NC4MD-LX-B](https://www.neutrik.com/en/product/nc4md-lx-b?c=audio) (Black) | 10 A | 16 AWG (1.5 mm²) |
   | Neutrik 4-pole Female Cable Connector | [NC4FXX](https://www.neutrik.com/en/product/nc4fxx) (Nickel) *or* [NC4FXX-B](https://www.neutrik.com/en/product/nc4fxx-b) (Black) | 10 A | 16 AWG (1.5 mm²) |
 
