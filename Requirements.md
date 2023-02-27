@@ -160,6 +160,8 @@
   
 - **Power Connectors for Raspberry Pi Power Supply <-> Server Case**
 
+  The male chassis connector is connected to the server case, while the female cable connector is connected to the cable of the power supply for the Raspberry Pi.
+
   **neutriCON**
 
   | Name | Product Code | Max. Current<sup>1</sup> | Max. Wire Size |
@@ -175,8 +177,6 @@
   | :-- | :-- | :--: | :--: |
   | Neutrik 4-pole Male Chassis Connector | [NC4MD-LX](https://www.neutrik.com/en/product/nc4md-lx) (Nickel) *or* [NC4MD-LX-B](https://www.neutrik.com/en/product/nc4md-lx-b?c=audio) (Black) | 10 A | 16 AWG (1.5 mm²) |
   | Neutrik 4-pole Female Cable Connector | [NC4FXX](https://www.neutrik.com/en/product/nc4fxx) (Nickel) *or* [NC4FXX-B](https://www.neutrik.com/en/product/nc4fxx-b) (Black) | 10 A | 16 AWG (1.5 mm²) |
-
-  The male chassis connector is connected to the server case, while the female cable connector is connected to the cable of the power supply for the Raspberry Pi.
   
   <sup>1</sup> Rated current per contact.
   
@@ -185,4 +185,7 @@
     | Name | Product Code | Category |
   | :-- | :-- | :--: |
   | etherCON RJ45 Chassis Connector | [NE8FDP](https://www.neutrik.com/en/product/ne8fdp) (Nickel) *or* [NE8FDP-B](https://www.neutrik.com/en/product/ne8fdp-b) (Black) | Cat 5e |
+  
+- **Ethernet Patch Cable**, 0.5–1.0 meter
+- **HDMI Cable**, 1.0 meter
 
