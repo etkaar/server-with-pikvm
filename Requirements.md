@@ -26,35 +26,15 @@
 - **Raspberry Pi 4**
 
   - In order to control both the keyboard and the mouse of the server, we will need a Raspberry Pi which offers USB On-The-Go (OTG). This way, the Raspberry will act as an external USB device and will simulate a keyboard, mouse (and mass storage for images):
-  
-    <img src="https://user-images.githubusercontent.com/40885610/221382600-c39dca19-fec1-4946-8ad5-dfd50eaa02fd.png" width="500">
     
-    The default name is "PiKVM CD-ROM Drive 0515".
-  
-    **USB On-The-Go (OTG)**
-    
-    Following Raspberry Pis offer OTG:
+    Following Raspberry Pis offer OTG and are supported:
 
      - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) via USB-C: The one we will use. It is recommended to use the 2 GB version.
-    
      - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) via Micro-USB: No Ethernet port.
-     - [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-w/) via Micro-USB: No Ethernet port and is legacy.
-     - [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/) via Micro-USB: No Ethernet port and not supported by PiKVM.
-
     
-    Following do **not** offer OTG and therefore are not recommended:
+    While they offer OTG, they are either considered as legacy or not supported:
     
-     - Raspberry Pi Pico
-     - Raspberry Pi Pico W
-     - Raspberry Pi 1 Model A
-     - Raspberry Pi 1 Model A+
-     - Raspberry Pi 1 Model B
-     - Raspberry Pi 1 Model B+
-     - Raspberry Pi 2 Model B
-     - Raspberry Pi 2 Model B V1.2
-     - Raspberry Pi 3 Model A+
-     - Raspberry Pi 3 Model B
-     - Raspberry Pi 3 Model B+
+    - [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-w/) via Micro-USB: No Ethernet port and is considered as legacy since Arch Linux ARM [has dropped support](https://archlinuxarm.org/forum/viewtopic.php?f=3&t=15721) for ARMv5 and ARMv6 architectures in February 2022. The Zero without W is not supported at all by PiKVM.
 
 - **3D Printer**
 
