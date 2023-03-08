@@ -29,7 +29,7 @@
     
     Following Raspberry Pis offer OTG and are supported:
 
-     - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) via USB-C: The one we will use. It is recommended to use the 2 GB version.
+     - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) via USB-C: The one we will use. It is recommended to use the 2 GB version, though 1 GB should also work.
      - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) via Micro-USB: No Ethernet port.
     
     While they offer OTG, they are either considered as legacy or not supported:
@@ -75,14 +75,17 @@
 
   This module is connected to the camera slot of the Raspberry using a FFC cable (Flat Flexible Cable) and to the server's HDMI port.
   
-  - Search for: "Geekworm Raspberry Pi HDMI IN Module C779, HDMI to CSI CSI-2"<br>
+  The Geekworm X630 V1.5 (Option A) was released in December 2022 and therefore seems to be the newest version in March 2023, see also the according Wiki Article:   https://wiki.geekworm.com/X630
+  
+  **Option A:** "Geekworm Raspberry Pi Hdmi to CSI-2 Module X630"<br>
+     🏬 Suppliers: [Amazon.de](https://www.amazon.de/dp/B09H2N99VL?psc=1&ref=ppx_yo2ov_dt_b_product_details)<br>
+  
+  **Option B:** "Geekworm Raspberry Pi HDMI IN Module C779, HDMI to CSI CSI-2"<br>
      🏬 Suppliers: [Amazon.de](https://www.amazon.de/gp/product/B0899L6ZXZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)<br>
   
 - The **Original Power Supply** (the one with the round cable) or any other stabilized power supply with a round cable providing 5 to 5.1 VDC, thick wires (18 AWG) and 2.5 to 3 A. Thicker wires are recommended because of the voltage drop which can occur at long distances and high current draw. The round cable is required for the assembly of the neutriCON connector. Since we don't use the USB-A ports, 2.5 A is reasonable, even for a hungry Raspberry Pi 4.
 
 - **microSD Card** with 64–128 GB.
-
-  <img src="https://user-images.githubusercontent.com/40885610/221562459-4a515c7b-dd42-42a3-9233-c09818893b70.jpg" width="500">
 
 ---
 
@@ -124,27 +127,15 @@
       
 - **Stranded Tinned Copper Wires**
 
-  23 AGW (0.25 mm²) in following colors:
-
-  | Colors | | | | |
-  | :-- | :-- | :-- | :-- | :-- |
-  | Blue | Red | Yellow | White | Black |
+  23 AGW (0.25 mm²) in five colors: Blue + Red + Yellow + White + Black
 
 - **Solid (Tinned) Copper Wires**
 
-  19–21 AWG (0.5 mm²) in following colors:
-   
-  | Colors | | | |
-  | :-- | :-- | :-- | :-- |
-  | Blue | Red | Yellow | White |
+  19–21 AWG (0.5 mm²) in four colors: Blue + Red + Yellow + White
   
 - **Stranded Tinned Copper Wires**
 
-  18–20 AWG (0.5–0.75 mm²) in following colors:
-  
-  | Colors | |
-  | :-- | :-- |
-  | Red | Black |
+  18–20 AWG (0.5–0.75 mm²) in two colors: Red + Black
   
 - **Power Connectors for Raspberry Pi Power Supply <-> Server Case**
 
