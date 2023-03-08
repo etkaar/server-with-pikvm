@@ -1,17 +1,17 @@
 # The Server-With-a-PiKVM Project 
 
-![ATX](https://user-images.githubusercontent.com/40885610/222908535-f7234f19-cb6e-43d8-96e0-e189a6744699.jpg)
-
 ## Index
 
-- [1.0 Introduction](https://github.com/etkaar/pikvm)
-- [2.0 Pictures](https://github.com/etkaar/pikvm)
+- [1.0 Introduction](https://github.com/etkaar/server-with-pikvm)
+- [2.0 Pictures](https://github.com/etkaar/server-with-pikvm)
 - 3.0 Requirements
-  - [3.1 The Basic Hardware](#31-the-basic-hardware)
-  - [3.2 Tools](#32-tools)
-  - [3.3 Parts for the Raspberry Pi 4](#33-parts-for-the-raspberry-pi-4)
-    - [3.3.1 Part for the Frontpanel Header Control](#331-part-for-the-frontpanel-header-control)
-  - [3.4 Cables, Connectors, Terminals, i.e.](#34-cables-connectors-terminals-ie)
+  - [3.1 The Basic Hardware](https://github.com/etkaar/server-with-pikvm/Requirements.md#31-the-basic-hardware)
+  - [3.2 Tools](https://github.com/etkaar/server-with-pikvm/Requirements.md#32-tools)
+  - [3.3 Parts for the Raspberry Pi 4](https://github.com/etkaar/server-with-pikvm/Requirements.md#33-parts-for-the-raspberry-pi-4)
+    - [3.3.1 Parts for the System Panel Header Control Board](https://github.com/etkaar/server-with-pikvm/Requirements.md#331-parts-for-the-front-panel-header-control-board)
+  - [3.4 Cables, Connectors, Terminals, i.e.](https://github.com/etkaar/server-with-pikvm/Requirements.md#34-cables-connectors-terminals-ie)
+- 4.0 Assembly
+  - [4.1 Control Board for the System Panel Header](https://github.com/etkaar/server-with-pikvm/Assembly.md#41-control-board-for-the-system-panel-header)
 
 ## 3.0 Requirements ▲ [Index](#index)
 
@@ -106,7 +106,7 @@
 
 ---
 
-### 3.3.1 Part for the Frontpanel Header Control
+### 3.3.1 Parts for the System Panel Header Control Board
 
 1. **Prototyping HAT / Raspberry Pi Shield**
 
@@ -154,7 +154,7 @@
   | White | HDD LED |
   | Black | Ground |
 
-- **Solid Tinned Copper Wires**
+- **Solid (Tinned) Copper Wires**
 
   19–21 AWG (0.5 mm²)
    
