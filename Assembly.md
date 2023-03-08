@@ -17,6 +17,8 @@
 
 ### 4.1 Control Board for the System Panel Header
 
+### 4.1.1 Introduction
+
 This board is required to allow PiKVM to control the system panel header (sometimes also referred to as "front panel header") of the server:
 
 <img src="https://user-images.githubusercontent.com/40885610/223600895-e75e943e-1cfe-4b8e-8ee5-86cccdbd3e07.png" width="500">
@@ -33,9 +35,21 @@ The front panel header (5 x 2) was standardized by Intel and consists of 9 pins 
 
 While most of the mainboard manufacturers (ASUS, Gigabyte, MSI) follow this standard, some older mainboards from Biostar (before 2020) and Supermicro mainboards do not. Thus, you should double-check with your mainboards manual.
 
-### 4.1.1 Polarity
+### 4.1.2 Polarity
 
 The polarity is only relevant for the Power and IDE/HDD LEDs. The power and reset buttons instead are just shorted to ground.
 
-### 4.1.2 How the Control Board Works
+### 4.1.3 Colors and GPIOs
 
+In order to make it a little bit more obvious, we will use differentr colors for each role of the system panel header. The GPIO pins we use are the default pins defined in *get_plugin_options()* of [kvmd/plugins/atx/gpio.py](https://github.com/pikvm/kvmd/blob/master/kvmd/plugins/atx/gpio.py).
+
+  | Color | Use Case | GPIO |
+  | :-- | :-- | :--: |
+  | Blue | Power | 23 |
+  | Red | Reset | 27 |
+  | Yellow | Power LED | 24 |
+  | White | IDE/HDD LED | 22 |
+
+
+
+<img src="https://user-images.githubusercontent.com/40885610/222908535-f7234f19-cb6e-43d8-96e0-e189a6744699.jpg" width="800">
