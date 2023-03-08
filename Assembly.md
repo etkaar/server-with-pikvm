@@ -82,7 +82,7 @@ The next step is to protect the ends in order to prevent them from touching the 
 
 At the end use polyimide (Kapton) tape to protect it. Don't use insulation tape – the adhesive is really awful.
 
-The best method would be to use a heat shrink tube, but that would usually require to cut all wires because even the USB-C plug will the too large for a heat shrink tube appropriate to the small diameter of the cable:
+The best method would be to use a heat shrink tube, but that would usually require to cut all wires because even the USB-C plug will the too large for a heat shrink tube appropriate to the small diameter of the cable. If you still don't like it, think about *option B*. 
 
 ![USBCToUSB2_P3](https://user-images.githubusercontent.com/40885610/223607259-f949a1b6-fbc3-47ee-a51c-8350911878c0.jpg)
 
