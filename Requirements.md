@@ -133,10 +133,6 @@
 
   19–21 AWG (0.5 mm²) in four colors: Blue + Red + Yellow + White
   
-- **Stranded Tinned Copper Wires**
-
-  18–20 AWG (0.5–0.75 mm²) in two colors: Red + Black
-  
 - **Power Connectors for Raspberry Pi Power Supply <-> Server Case**
 
   The male chassis connector is connected to the server case, while the female cable connector is connected to the cable of the power supply for the Raspberry Pi.
