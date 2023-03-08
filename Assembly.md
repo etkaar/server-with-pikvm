@@ -45,10 +45,16 @@ In order to make it a little bit more obvious, we will use differentr colors for
 
   | Color | Use Case | GPIO |
   | :-- | :-- | :--: |
-  | Blue | Power | 23 |
-  | Red | Reset | 27 |
+  | Blue | Power Button | 23 |
+  | Red | Reset Button | 27 |
   | Yellow | Power LED | 24 |
   | White | IDE/HDD LED | 22 |
+  
+### 4.1.4 Layout/Soldering
+
+First, put all the components together as shown in the photo below.
+
+Note, that the first two OMRON MOSFET Relays for the Power Button (Blue) and Reset Button (Red) are placed in **opposite** direction. You only need to assemble the parts for the Power LED (Yellow) and IDE/HDD LED (White) if you want to have their values (glowing of the Power LED, blinking of the IDE/HDD LED) to be reflected in the PiKVM webinterface. While this is still a cool thing, it has no other function than that.
   
 <img src="https://user-images.githubusercontent.com/40885610/222908535-f7234f19-cb6e-43d8-96e0-e189a6744699.jpg" width="800">
   
