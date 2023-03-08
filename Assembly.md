@@ -67,7 +67,7 @@ We do not power the Raspberry Pi using its USB-C port, but we still make use of 
 
 You have two options:
 
-A. Connecting the Raspberry from USB-C to a USB-A port of the server.
+A. Connecting the Raspberry from USB-C to a USB-A port of the server.<br>
 B. Connecting the Raspberry from USB-C directly to the mainboard using an available USB 2.0 header.
 
 ### 4.2.1 Option A: USB-C to a USB-A
@@ -87,3 +87,5 @@ While the best method would be to use a heat shrink tube, that would usually req
 ![USBCToUSB2_P3](https://user-images.githubusercontent.com/40885610/223607259-f949a1b6-fbc3-47ee-a51c-8350911878c0.jpg)
 
 ### 4.2.2 Option B: USB-C to USB 2.0 header
+
+This option makes the most sense for servers, because you won't be required to lead the cable outside of the case. You then can simply connect the Raspberry directly to the mainboards.
