@@ -124,35 +124,27 @@
       
 - **Stranded Tinned Copper Wires**
 
-  23 AGW (0.25 mm²)
-   
-  | Color | Use Case |
-  | :-- |:--|
-  | Blue | Power |
-  | Red | Reset |
-  | Yellow | Power LED |
-  | White | HDD LED |
-  | Black | Ground |
+  23 AGW (0.25 mm²) in following colors:
+
+  | Colors | | | | |
+  | :-- | :-- | :-- | :-- | :-- |
+  | Blue | Red | Yellow | White | Black |
 
 - **Solid (Tinned) Copper Wires**
 
-  19–21 AWG (0.5 mm²)
+  19–21 AWG (0.5 mm²) in following colors:
    
-  | Color | Use Case | GPIO |
-  | :-- | :-- | :--: |
-  | Blue | Power | 23 |
-  | Red | Reset | 27 |
-  | Yellow | Power LED | 24 |
-  | White | HDD LED | 22 |
+  | Colors | | | |
+  | :-- | :-- | :-- | :-- |
+  | Blue | Red | Yellow | White |
   
 - **Stranded Tinned Copper Wires**
 
-  18–20 AWG (0.5–0.75 mm²)
+  18–20 AWG (0.5–0.75 mm²) in following colors:
   
-  | Color | Use Case |
+  | Colors | |
   | :-- | :-- |
-  | Red | +5 VDC (Power Supply) |
-  | Black | Ground |
+  | Red | Black |
   
 - **Power Connectors for Raspberry Pi Power Supply <-> Server Case**
 
