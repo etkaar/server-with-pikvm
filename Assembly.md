@@ -97,4 +97,4 @@ While the best method would be to use a heat shrink tube, that would usually req
 
 ### 4.2.2 Option B: USB-C to USB 2.0 header
 
-This option makes the most sense for servers, because you won't be required to lead the cable outside of the case. You then can simply connect the Raspberry directly to the mainboards.
+This option makes the most sense for servers, because you won't be required to lead the cable outside of the case. You then can simply connect the Raspberry directly to the mainboards USB 2.0 header.
