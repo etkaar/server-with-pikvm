@@ -148,6 +148,8 @@
 
   This cable will later be modified and used for OTG.
   
+---  
+  
 ### 3.6 Parts for the Server Case  
   
 - **Ethernet Patch Cable**, 0.5–1.0 meter
