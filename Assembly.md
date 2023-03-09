@@ -63,12 +63,12 @@ Note, that the first two OMRON MOSFET Relays for the Power Button (Blue) and Res
 
 We do not power the Raspberry Pi using its USB-C port, but we still make use of this port as this port offers OTG (USB On-The-Go) which is required for PiKVM to control the keyboard and mouse of the server and offer a mass storage device. Therefore, we still need to create our own cable from an USB-C <-> USB 2.0 cable with four (4) wires. Cables with only two wires are not suitable.
 
-  | Color | Use Case | GPIO |
-  | :-- | :-- | :--: |
-  | Red | VBUS (VCC) +5 V | 23 |
-  | White | D- (Data) | 27 |
-  | Green | D+ (Data) | 24 |
-  | Black | Ground (GND) | 22 |
+  | Color | Use Case |
+  | :-- | :-- |
+  | Red | VBUS (VCC) +5 V |
+  | White | D- (Data) |
+  | Green | D+ (Data) | 
+  | Black | Ground (GND) |
 
 ⚠️ **It mandatory to disconnect the +5 V (VBUS/VCC) wire of the cable.**
 
