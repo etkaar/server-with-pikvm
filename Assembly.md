@@ -59,6 +59,8 @@ Note, that the first two OMRON MOSFET Relays for the Power Button (Blue) and Res
   
 <img src="https://user-images.githubusercontent.com/40885610/222908535-f7234f19-cb6e-43d8-96e0-e189a6744699.jpg" width="800">
   
+---  
+  
 ## 4.2 USB 2.0 OTG Cable
 
 We do not power the Raspberry Pi using its USB-C port, but we still make use of this port as this port offers OTG (USB On-The-Go) which is required for PiKVM to control the keyboard and mouse of the server and offer a mass storage device. Therefore, we still need to create our own cable from an USB-C <-> USB 2.0 cable with four (4) wires. Cables with only two wires are not suitable.
