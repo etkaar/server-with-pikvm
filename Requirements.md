@@ -110,7 +110,7 @@
    
 3. 4 x Axial miniature resistor with 330 or 390 Ω, axial, size 0204 (about 3.5 mm = 0.13 inch).<br>
    🏬 [Reichelt.de](https://www.reichelt.de/de/de/duennschichtwiderstand-axial-0-4-w-330-ohm-1--vi-mba02040c3300-p233643.html)
-5. 2 x Axial miniature 4.7K Ω, axial, size 0204 (about 3.5 mm = 0.13 inch)<br>
+4. 2 x Axial miniature 4.7K Ω, axial, size 0204 (about 3.5 mm = 0.13 inch)<br>
    🏬 [Reichelt.de](https://www.reichelt.de/de/en/metal-film-resistor-4-7-kohm-0204-0-4-w-1--yag-4fte52-4k7-p236963.html)
    
    Of course, you could also use SMD or MELF resistors if you can handle them.
@@ -118,6 +118,9 @@
    **Miniature *vs* Standard Size**
 
    <img src="https://user-images.githubusercontent.com/40885610/221559339-6090bde7-7353-4aa0-b6d6-2d05dcee0837.jpg" height="150">
+
+5. 1 x Schottky Diode, 5 A, axial, SB 520<br>
+   🏬 [Reichelt.de](https://www.reichelt.de/schottkydiode-20-v-5-a-do-201-sb-520-p16058.html)
 
 ---
 
