@@ -4,13 +4,13 @@
 
 - [1.0 Introduction](https://github.com/etkaar/server-with-pikvm)
 - [2.0 Pictures](https://github.com/etkaar/server-with-pikvm)
-- 3.0 Requirements
+- 3.0 Requirements and Parts
   - [3.1 The Basic Hardware](https://github.com/etkaar/server-with-pikvm/blob/main/Requirements.md#31-the-basic-hardware)
   - [3.2 Tools](https://github.com/etkaar/server-with-pikvm/blob/main/Requirements.md#32-tools)
   - [3.3 Parts for the Raspberry Pi 4](https://github.com/etkaar/server-with-pikvm/blob/main/Requirements.md#33-parts-for-the-raspberry-pi-4)
-    - [3.3.1 Parts for the System Panel Header Control Board](https://github.com/etkaar/server-with-pikvm/blob/main/Requirements.md#331-parts-for-the-system-panel-header-control-board)
-  - [3.4 Cables, Connectors, Terminals, i.e.](https://github.com/etkaar/server-with-pikvm/blob/main/Requirements.md#34-cables-connectors-terminals-ie)
-  - [3.5 Parts for the Server Case](https://github.com/etkaar/server-with-pikvm/blob/main/Requirements.md#35-parts-for-the-server-case)
+  - [3.4 Parts for the System Panel Header Control Board](https://github.com/etkaar/server-with-pikvm/blob/main/Requirements.md#331-parts-for-the-system-panel-header-control-board)
+  - [3.5 Cables, Connectors, Terminals, i.e.](https://github.com/etkaar/server-with-pikvm/blob/main/Requirements.md#34-cables-connectors-terminals-ie)
+  - [3.6 Parts for the Server Case](https://github.com/etkaar/server-with-pikvm/blob/main/Requirements.md#35-parts-for-the-server-case)
 - 4.0 Assembly
   - [4.1 Control Board for the System Panel Header](https://github.com/etkaar/server-with-pikvm/blob/main/Assembly.md#41-control-board-for-the-system-panel-header)
 
@@ -87,10 +87,12 @@
 - The **Original Power Supply** (the one with the round cable) or any other stabilized power supply with a round cable providing 5 to 5.1 VDC, thick wires (18 AWG) and 2.5 to 3 A. Thicker wires are recommended because of the voltage drop which can occur at long distances and high current draw. The round cable is required for the assembly of the neutriCON connector. Since we don't use the USB-A ports, 2.5 A is reasonable, even for a hungry Raspberry Pi 4.
 
 - **microSD Card** with 64–128 GB.
+- **Passive Heatsinks**
+  🏬 [Amazon.de](https://www.amazon.de/dp/B085G73SCB?psc=1&ref=ppx_yo2ov_dt_b_product_details)<br>
 
 ---
 
-### 3.3.1 Parts for the System Panel Header Control Board
+### 3.4 Parts for the System Panel Header Control Board
 
 1. **Prototyping HAT / Raspberry Pi Shield**
 
@@ -124,25 +126,29 @@
 
 ---
 
-### 3.4 Cables, Connectors, Terminals, i.e.
+### 3.5 Cables, Connectors, Terminals, i.e.
       
 - **HDMI Cable**, 1.0 meter
 
-- **FFC Cable**, 10 cm long if you use the X630 HDMI to CSI-2 module, as the included cable is only 5 cm long.
+- **FFC Cable**, 10 cm long if you use the X630 HDMI to CSI-2 module, as the included cable is only 5 cm long.<br>
+  🏬 [ebay.de](https://www.ebay.de/itm/271844381456)
       
 - **Stranded Tinned Copper Wires**
 
-  23 AGW (0.25 mm²) in five colors: Blue + Yellow + White + Red + Black
+  23 AGW (0.25 mm²) in five colors: Blue + Yellow + White + Red + Black<br>
+  🏬 [ebay.de](https://www.ebay.de/itm/303366042155?var=603141396275)
 
 - **Solid (Tinned) Copper Wires**
 
-  19–21 AWG (0.5 mm²) in four colors: Blue + Red + Yellow + White
+  19–21 AWG (0.5 mm²) in four colors: Blue + Red + Yellow + White<br>
+  🏬 [ebay.de](https://www.ebay.de/itm/164287053334?var=463901971176)
   
-- **USB-C to USB-A 2.0 cable**, 0.5–1.0 meter
+- **USB-C to USB-A 2.0 cable**, 0.5–1.0 meter<br>
+  🏬 [Amazon.de](https://www.amazon.de/gp/product/B07NSQ56DY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)<br>
 
   This cable will later be modified and used for OTG.
   
-### 3.5 Parts for the Server Case  
+### 3.6 Parts for the Server Case  
   
 - **Ethernet Patch Cable**, 0.5–1.0 meter
   
