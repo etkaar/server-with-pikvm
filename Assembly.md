@@ -95,6 +95,12 @@ While the best method would be to use a heat shrink tube, that would usually req
 
 ![USBCToUSB2_P3](https://user-images.githubusercontent.com/40885610/223607259-f949a1b6-fbc3-47ee-a51c-8350911878c0.jpg)
 
+![PiKVMCableUSB-A](https://user-images.githubusercontent.com/40885610/224345469-c3309ceb-d310-46a4-9482-898ad197f457.jpg)
+
+
 ### 4.2.2 Option B: USB-C to USB 2.0 header
 
 This option makes the most sense for servers, because you won't be required to lead the cable outside of the case. You then can simply connect the Raspberry directly to the mainboards USB 2.0 header.
+
+![PiKVMCableUSB-2 0Mainboard](https://user-images.githubusercontent.com/40885610/224345908-e5698d6d-0152-4256-aee4-5ca43468aa7e.jpg)
+
