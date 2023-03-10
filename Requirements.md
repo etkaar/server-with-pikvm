@@ -37,6 +37,9 @@
     
     - [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-w/) via Micro-USB: No Ethernet port and is considered as legacy since Arch Linux ARM [has dropped support](https://archlinuxarm.org/forum/viewtopic.php?f=3&t=15721) for ARMv5 and ARMv6 architectures in February 2022. The Zero without W is not supported at all by PiKVM.
 
+  ![RaspberryPi4](https://user-images.githubusercontent.com/40885610/224344736-60251362-4dc4-4a21-b813-81f17259b540.jpg)
+  ![RaspberryPi4_2](https://user-images.githubusercontent.com/40885610/224344932-2e1d702b-1623-49f6-9bb2-2df02a92b00c.jpg)
+
 - **3D Printer**
 
   Reliable and cheap is an FLSUN Q5.
