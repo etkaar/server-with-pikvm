@@ -57,7 +57,7 @@ First, put all the components together as shown in the photo below.
 
 Note, that the first two OMRON MOSFET Relays for the Power Button (Blue) and Reset Button (Red) are placed in **opposite** direction. You only need to assemble the parts for the Power LED (Yellow) and IDE/HDD LED (White) if you want to have their values (glowing of the Power LED, blinking of the IDE/HDD LED) to be reflected in the PiKVM webinterface. While this is still a cool thing, it has no other function than that.
   
-<img src="https://user-images.githubusercontent.com/40885610/222908535-f7234f19-cb6e-43d8-96e0-e189a6744699.jpg" width="800">
+<img src="https://user-images.githubusercontent.com/40885610/225312911-7ad6c10d-3f13-4f2f-a919-8b22704e4267.jpg" width="800">
 
 ### 4.1.5 Cable
 
