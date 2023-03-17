@@ -2,7 +2,11 @@
 
 In this article I will explain how you can build a server with a KVM using a Raspberry Pi 4 and PiKVM OS.
 
-[PiKVM](https://pikvm.org/) is a great open-source project people - including me - have been waiting years for. While the documentation is a bit in need of improvement, Maxim Devaev, the creator and main developer of PiKVM, is always very helpful.
+[PiKVM](https://pikvm.org/) is a great open-source project people - including me - have been waiting years for. An alternative solution is [TinyPilot](https://github.com/tiny-pilot/tinypilot), they use work of PiKVM though (e.g. [pikvm/ustreamer](https://github.com/tiny-pilot/ustreamer)). Both projects are open-source but also offer pre-assambled devices.
+
+#### ⛔️ **Beware the Moderators**
+
+While Maxim Devaev, the creator and main developer of PiKVM, is always very helpful, the moderators (Arch1mede and Amt921) on the Discord server are kind of aggressive. Polemical statements, unnecessarily warnings for trivialities are the order of the day. And it is not unlikely to get banned on their Discord server – I also got banned after I shared my work. The reason is, that they consider contributing to the community as a risk for the monetization of their ready-to-go devices such as [PiKVM V4](https://www.kickstarter.com/projects/mdevaev/pikvm-v4).
 
 
 ## Index
