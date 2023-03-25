@@ -73,13 +73,21 @@ WEBUI_ADMIN_PASSWD = ...
 IPMI_ADMIN_PASSWD = ...
 
 # SD card device
+# (Irrelevant in our case, as we will burn the image later using the Raspberry Pi Imager)
 CARD = /dev/mmcblk0
 ```
 
-### 4.3 Build the PiKVM OS
+### 4.3 Build PiKVM OS and Make Image
 
 After your configuration is ready, you can build the OS. That will take about half an hour:
 
 ```
 make os
 ```
+
+After that, we will make the image. It will be stored as `xz` compressed file in `/root/pikvm/os/images`
+
+```
+make SUDO= image
+```
+
