@@ -25,13 +25,12 @@ For the Raspberry Pi 4 and Zero (2) W pre-compiled images [are available](https:
 ### 4.1 Install Dependencies (e.g. Docker)
 
 ```
-mkdir /root/pikvm
-cd /root/pikvm
-
 apt install git make curl binutils
 apt install docker.io
 usermod -aG docker $USER
 
+mkdir /root/pikvm
+cd /root/pikvm
 git clone --depth=1 https://github.com/pikvm/os
 cd os
 ```
