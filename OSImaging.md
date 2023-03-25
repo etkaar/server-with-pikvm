@@ -95,7 +95,7 @@ make SUDO= image
 
 ### 4.4 Flash Image to MicroSD Card Using the Raspberry Pi Imager
 
-You can download the offical Raspberry Pi Imager [here](https://www.raspberrypi.com/software/).
+You can download the offical Raspberry Pi Imager [here](https://www.raspberrypi.com/software/). Flashing is easy, refer to the official documentation for that step:
 
 📢 Official: [Flashing the OS image - PiKVM Handbook](https://docs.pikvm.org/flashing_os/?h=flashing)
 
