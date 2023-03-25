@@ -48,7 +48,6 @@ printf '%s\n' $(head /dev/urandom | LC_ALL=C tr -dc A-Za-z0-9 | head -c16)
 ⚠️ **This configuration file is only valid for a Raspberry Pi 4 using the HDMI to CSI-2 Module.**
 
 ```
-cat config.mk
 # rpi4 for Raspberry Pi 4; rpi3 for Raspberry Pi 3; rpi2 for the version 2, zero2w for Zero2W
 BOARD = rpi4
 
