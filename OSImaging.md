@@ -76,3 +76,10 @@ IPMI_ADMIN_PASSWD = ...
 CARD = /dev/mmcblk0
 ```
 
+### 4.3 Build the PiKVM OS
+
+After your configuration is ready, you can build the OS. That will take about half an hour:
+
+```
+make os
+```
