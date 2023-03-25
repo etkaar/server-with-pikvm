@@ -25,7 +25,7 @@ For the Raspberry Pi 4 and Zero (2) W pre-compiled images [are available](https:
 ### 4.1 Install Dependencies (e.g. Docker)
 
 ```
-mkdir /root/pivkm
+mkdir /root/pikvm
 cd /root/pikvm
 
 apt install git make curl binutils
