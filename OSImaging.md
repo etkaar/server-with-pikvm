@@ -18,7 +18,9 @@
 
 PiKVM is not a software you will install on Raspberry Pi OS (formerly *Raspbian*). It is rather a lightweight OS, based on Arch Linux ARM.
 
-For the Raspberry Pi 4 and Zero (2) W pre-compiled images [are available](https://pikvm.org/download). However, we will build the operating system ourselves. For that, you will need a x86-64 machine (or a virtual server). In this example Debian 11 Bullseye was used.
+For the Raspberry Pi 4 and Zero (2) W pre-compiled images [are available](https://pikvm.org/download). However, we will build the operating system ourselves. For that, you will need a x86-64 machine (or a virtual server).
+
+In this example Debian 11 Bullseye was used.
 
 📢 Official: [Building PiKVM OS - PiKVM Handbook](https://docs.pikvm.org/building_os)
 
@@ -90,4 +92,12 @@ After that, we will make the image. It will be stored as `xz` compressed file in
 ```
 make SUDO= image
 ```
+
+### 4.4 Flash Image to MicroSD Card Using the Raspberry Pi Imager
+
+You can download the offical Raspberry Pi Imager [here](https://www.raspberrypi.com/software/).
+
+📢 Official: [Flashing the OS image - PiKVM Handbook](https://docs.pikvm.org/flashing_os/?h=flashing)
+
+
 
