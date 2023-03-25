@@ -37,7 +37,7 @@ cd os
 
 ### 4.2 Create Configuration File
 
-Now you need to create a the configuration file `config.mk` at `/root/pikvm/config.mk`. 
+Now you need to create a the configuration file `config.mk` at `/root/pikvm/os/config.mk`. 
 
 Do not use the default values for passwords. Instead, generate a random 16-character password using following command:
 
