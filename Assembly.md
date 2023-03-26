@@ -63,7 +63,7 @@ Solder all the components together as shown in the photo below.
 
 ### Schottky Diode
 
-The large diode is a Schottky diode (20 V, 5 A). It is placed anti-parallel and serves as a simple protection against reverse polarity. In the event of reverse polarity, it causes a (deliberate) short circuit, which causes the power supply to switch to the overload or short-circuit state. Therefore, you **must not** use power supplies which deliver more the diode is able can withstand continuously. The Original Raspberry Pi power supplies with 3 A are suitable.
+The large diode is a Schottky diode (20 V, 5 A). It is placed anti-parallel and serves as a simple protection against reverse polarity. In this case, the diode causes a (deliberate) short circuit, which then causes the power supply to switch to the overload or short-circuit state. Therefore, you **must not** use power supplies which deliver more the diode is able can withstand continuously. The Original Raspberry Pi power supplies with 3 A are suitable.
 
 However, do not test it, even if the reverse voltage will be very low (between –0,3 and –0,1 V in my tests). It could be still harmful to sensitive components.
 
