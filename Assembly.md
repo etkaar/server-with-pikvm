@@ -53,11 +53,19 @@ In order to make it a little bit more obvious, we will use differentr colors for
   
 ### 4.1.4 Layout/Soldering
 
-First, put all the components together as shown in the photo below.
+Solder all the components together as shown in the photo below.
 
-Note, that the first two OMRON MOSFET Relays for the Power Button (Blue) and Reset Button (Red) are placed in **opposite** direction. You only need to assemble the parts for the Power LED (Yellow) and IDE/HDD LED (White) if you want to have their values (glowing of the Power LED, blinking of the IDE/HDD LED) to be reflected in the PiKVM webinterface. While this is still a cool thing, it has no other function than that.
+1. Note, that the first two OMRON MOSFET Relays for the Power Button (Blue) and Reset Button (Red) are placed in **opposite** direction.
+2. You only need to assemble the parts for the Power LED (Yellow) and IDE/HDD LED (White) if you want to have their values (glowing of the Power LED, blinking of the IDE/HDD LED) to be reflected in the PiKVM Web Interface.
+3. The diode is optional, see below.
   
 <img src="https://user-images.githubusercontent.com/40885610/225312911-7ad6c10d-3f13-4f2f-a919-8b22704e4267.jpg" width="800">
+
+### Schottky Diode
+
+The large diode is a Schottky diode (20 V, 5 A). It is placed anti-parallel and serves as a simple protection against reverse polarity. In the event of reverse polarity, it causes a (deliberate) short circuit, which causes the power supply to switch to the overload or short-circuit state. Therefore, you **must not** use power supplies which deliver more the diode is able can withstand continuously. The Original Raspberry Pi power supplies with 3 A are suitable.
+
+However, do not test it, even if the reverse voltage will be very low (between –0,3 and –0,1 V in my tests). It could be still harmful to sensitive components.
 
 ### 4.1.5 Cable (23 cm)
 
