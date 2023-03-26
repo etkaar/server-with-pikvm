@@ -31,6 +31,10 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
 
 ...
 
+## License
+
+All contents of this repository, especially published photos, are, as far as they do not originate from third parties, under the MIT license.
+
 ---
 
 ### 🙇‍♀️ **Side Note: Beware the Moderators**
