@@ -25,7 +25,7 @@ As the goal of this project is to make it as professional and replicable as poss
 - A great amount of time.
 - Not too less money.
 
-This article does neither contain paid advertisement, nor referral links (e.g. to Amazon or other sites).
+🎁 This article does neither contain paid advertisement, nor referral links (e.g. to Amazon or other sites).
 
 ## 2.0 Pictures
 
