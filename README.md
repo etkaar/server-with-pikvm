@@ -33,7 +33,7 @@ This article does neither contain paid advertisement, nor referral links (e.g. t
 
 ## License
 
-All contents of this repository, especially published photos, are, as far as they do not originate from third parties, under the MIT license.
+All contents of this collection, especially published photos, are under the MIT license. This does not apply to content originating from third parties and to content that does not enjoy legal copyright protection, for example, due to a lack of creative power.
 
 ---
 
