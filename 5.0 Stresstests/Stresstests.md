@@ -21,7 +21,7 @@ stressberry-run -n "PiKVM" -d 3600 -i 300 -c 4 pikvm.out
 With following command you can create a PNG image of the result:
 
 ```
-stressberry-plot pikvm.out -f -d 300 -f -l 400 1600 -t 30 90 -o pikvm.png --not-transparent
+stressberry-plot pikvm.out -f -d 300 -f -l 400 1600 -t 30 90 -o pikvm.png
 ```
 
 ---
