@@ -29,7 +29,7 @@ As the goal of this project is to make it as professional and replicable as poss
 
 ## 2.0 Pictures
 
-...
+<img src="https://user-images.githubusercontent.com/40885610/228348879-e0f41a16-d474-4cd7-8e15-f5330d4ab254.jpg" width="400">
 
 ## License
 
