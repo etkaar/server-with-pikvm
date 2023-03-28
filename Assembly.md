@@ -116,9 +116,15 @@ This option makes the most sense for servers, because you won't be required to l
 
 ![PiKVMCableUSB-2 0Mainboard](https://user-images.githubusercontent.com/40885610/224345908-e5698d6d-0152-4256-aee4-5ca43468aa7e.jpg)
 
-## 4.2 GPOI Header Power Cable (4-pin, 50 cm)
+## 4.2 GPIO Header Power Cable (4-pin, 50 cm)
+
+Regardless of how we power the RPi 4 we need a power cable which is attached to the power connector (e.g. neutriCON or XLR-4) which is assembled onto the server case. We use two 23 AGW (0.25 mm²) wires each for red (VCC) and black (ground). There are two reasons for that: First, we want to prevent any voltage drop. But second we want
+
+![PowerCable](https://user-images.githubusercontent.com/40885610/228363726-0ea5f723-b60f-4103-9e91-ee1d5fe504ad.jpg)
+
+
 
   | State | Voltage |
   | :-- | :-- |
   | Idle | 5.22 V |
-  | Stress |  |
+  | Stress | 5.11 V |
