@@ -10,8 +10,6 @@ ro
 
 The `rw` (read & write) and `ro` (read-only) commands are only used to disable and enable the ready-only mode of the file system.
 
-⚠️ **Do not forget to enable read-only mode again once your work is finished.**
-
 Use following command to run a one-hour stress test preceded and followed by a five-minute idle period:
 
 ```
@@ -23,6 +21,8 @@ With following command you can create a PNG image of the result:
 ```
 stressberry-plot pikvm.out -f -d 300 -f -l 400 1600 -t 30 90 -o pikvm.png
 ```
+
+⚠️ **Do not forget to enable read-only mode (command `ro`) again once your work is finished.**
 
 ---
 
