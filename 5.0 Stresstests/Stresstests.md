@@ -34,7 +34,7 @@ As expected, the Raspberry Pi 4 gets quite hot, with the CPU hitting almost 176 
 
 ### 5.2 Running Server
 
-With a running server and spinning fans then that's a completely different story.
+With a running server – case closed – and spinning fans then that's a completely different story.
 
 ---
 
