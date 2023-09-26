@@ -1,5 +1,7 @@
 # The Server-With-a-PiKVM Project 
 
+**🟥 I ended this project because the moderators (Arch1mede and Amt921) on the Discord server are kind of aggressive. Polemical statements, unnecessarily warnings for trivialities are the order of the day. After I shared this work, I got permanently banned. Thus, there is no reason to further support PiKVM. Anyway, I will try to help if you have questions. 🟥**
+
 In this article I will explain how you can build a server with a KVM using a Raspberry Pi 4 and PiKVM OS.
 
 [PiKVM](https://pikvm.org/) is a great open-source project people - including me - have been waiting years for. An alternative solution is [TinyPilot](https://github.com/tiny-pilot/tinypilot), they use work of PiKVM though (e.g. [pikvm/ustreamer](https://github.com/tiny-pilot/ustreamer)). Both projects are open-source but also offer pre-assambled devices.
@@ -35,8 +37,3 @@ As the goal of this project is to make it as professional and replicable as poss
 
 All content in this repository, especially published photos, is licensed under the MIT license. This does not apply to content originating from third parties and to content that does not enjoy legal copyright protection, for example, due to a lack of creative power.
 
----
-
-### 🙇‍♀️ **Side Note: Beware the Moderators**
-
-While Maxim Devaev, the creator and main developer of PiKVM, is always kind and helpful, the moderators (Arch1mede and Amt921) on the Discord server are kind of aggressive. Polemical statements, unnecessarily warnings for trivialities are the order of the day. It is not unlikely to get banned on their Discord server – I also got banned after I shared my work.
