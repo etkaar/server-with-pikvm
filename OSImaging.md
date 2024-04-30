@@ -93,6 +93,13 @@ After that, we will make the image. It will be stored as `xz` compressed file in
 make SUDO= image
 ```
 
+If not compressed, you can manually compress it as `.tar.gz`:
+
+```
+cd /root/pikvm/os/images
+tar --dereference -czvf v2-hdmi-rpi4-latest.img.tar.gz v2-hdmi-rpi4-latest.img
+```
+
 ### 4.4 Flash Image to MicroSD Card Using the Raspberry Pi Imager
 
 You can download the offical Raspberry Pi Imager [here](https://www.raspberrypi.com/software/). Flashing is easy, refer to the official documentation for that step:
